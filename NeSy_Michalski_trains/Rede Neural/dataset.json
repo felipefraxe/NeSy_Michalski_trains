@@ -1,0 +1,452 @@
+{
+    "1": {
+        "num_car": 4,
+        "dif_loads": 4,
+        "cars": {
+            "1": {
+                "num_wheels": 2,
+                "length": 1,
+                "shape": 2,
+                "num_load": 3,
+                "shape_load": 2
+            },
+            "2": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 9,
+                "num_load": 1,
+                "shape_load": 4
+            },
+            "3": {
+                "num_wheels": 3,
+                "length": 1,
+                "shape": 2,
+                "num_load": 1,
+                "shape_load": 2
+            },
+            "4": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 2,
+                "num_load": 1,
+                "shape_load": 1
+            }
+        },
+        "rect2rect": -1,
+        "rect2tri": 1,
+        "rect2hex": -1,
+        "rect2circ": -1,
+        "tri2tri": -1,
+        "tri2hex": 1,
+        "tri2circ": -1,
+        "hex2hex": -1,
+        "hex2circ": 1,
+        "circ2cir": -1,
+        "east": 1
+    },
+    "2": {
+        "num_car": 3,
+        "dif_loads": 3,
+        "cars": {
+            "1": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 5,
+                "num_load": 1,
+                "shape_load": 4
+            },
+            "2": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 8,
+                "num_load": 1,
+                "shape_load": 3
+            },
+            "3": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 1,
+                "num_load": 2,
+                "shape_load": 1
+            },
+            "4": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            }
+        },
+        "rect2rect": -1,
+        "rect2tri": 1,
+        "rect2hex": -1,
+        "rect2circ": 1,
+        "tri2tri": -1,
+        "tri2hex": -1,
+        "tri2circ": -1,
+        "hex2hex": -1,
+        "hex2circ": 1,
+        "circ2cir": -1,
+        "east": 1
+    },
+    "3": {
+        "num_car": 3,
+        "dif_loads": 2,
+        "cars": {
+            "1": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 2,
+                "num_load": 1,
+                "shape_load": 1
+            },
+            "2": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 6,
+                "num_load": 1,
+                "shape_load": 4
+            },
+            "3": {
+                "num_wheels": 3,
+                "length": 1,
+                "shape": 1,
+                "num_load": 1,
+                "shape_load": 4
+            },
+            "4": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            }
+        },
+        "rect2rect": -1,
+        "rect2tri": -1,
+        "rect2hex": -1,
+        "rect2circ": -1,
+        "tri2tri": 1,
+        "tri2hex": -1,
+        "tri2circ": 1,
+        "hex2hex": -1,
+        "hex2circ": -1,
+        "circ2cir": -1,
+        "east":1
+    },
+    "4": {
+        "num_car": 4,
+        "dif_loads": 3,
+        "cars": {
+            "1": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 8,
+                "num_load": 1,
+                "shape_load": 4
+            },
+            "2": {
+                "num_wheels":2,
+                "length": -1,
+                "shape": 3,
+                "num_load": 1,
+                "shape_load": 4
+            },
+            "3": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 4,
+                "num_load": 1,
+                "shape_load": 2
+            },
+            "4": {
+                "num_wheels":2,
+                "length": -1,
+                "shape": 2,
+                "num_load": 1,
+                "shape_load": 3
+            }
+        },
+        "rect2rect": -1,
+        "rect2tri": -1,
+        "rect2hex": 1,
+        "rect2circ": -1,
+        "tri2tri": 1,
+        "tri2hex": 1,
+        "tri2circ": -1,
+        "hex2hex": -1,
+        "hex2circ": -1,
+        "circ2cir": -1,
+        "east": 1
+    },
+    "5": {
+        "num_car": 3,
+        "dif_loads": 3,
+        "cars":{
+            "1": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 3,
+                "num_load": 1,
+                "shape_load": 4
+            },
+            "2": {
+                "num_wheels": 3,
+                "length": 1,
+                "shape": 1,
+                "num_load": 1,
+                "shape_load": 3
+            },
+            "3": {
+                "num_wheels":2,
+                "length": -1,
+                "shape": 1,
+                "num_load": 1,
+                "shape_load": 1
+            },
+            "4": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            }
+        },
+        "rect2rect": -1,
+        "rect2tri": 1,
+        "rect2hex": -1,
+        "rect2circ": 1,
+        "tri2tri": -1,
+        "tri2hex": -1,
+        "tri2circ": -1,
+        "hex2hex": -1,
+        "hex2circ": -1,
+        "circ2cir": -1,
+        "east": 1
+    },
+    "6": {
+        "num_car": 2,
+        "dif_loads": 2,
+        "cars":{
+            "1": {
+                "num_wheels":2,
+                "length": 1,
+                "shape": 1,
+                "num_load": 3,
+                "shape_load": 1
+            },
+            "2": {
+                "num_wheels":2,
+                "length": -1,
+                "shape": 2,
+                "num_load": 1,
+                "shape_load": 4
+            },
+            "3": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            },
+            "4": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            }
+        },
+        "rect2rect": -1,
+        "rect2tri": -1,
+        "rect2hex": -1,
+        "rect2circ": -1,
+        "tri2tri": -1,
+        "tri2hex": -1,
+        "tri2circ": 1,
+        "hex2hex": -1,
+        "hex2circ": -1,
+        "circ2cir": -1,
+        "east": 0
+    },
+    "7": {
+        "num_car": 3,
+        "dif_loads": 2,
+        "cars": {
+            "1": {
+                "num_wheels":2,
+                "length": -1,
+                "shape": 3,
+                "num_load": 1,
+                "shape_load": 1
+            },
+            "2": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 2,
+                "num_load": 1,
+                "shape_load": 4
+            },
+            "3": {
+                "num_wheels": 2,
+                "length": 1,
+                "shape": 7,
+                "num_load": 0,
+                "shape_load": -1
+            },
+            "4": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            }
+        },
+        "rect2rect": -1,
+        "rect2tri": -1,
+        "rect2hex": -1,
+        "rect2circ": -1,
+        "tri2tri": -1,
+        "tri2hex": -1,
+        "tri2circ": 1,
+        "hex2hex": -1,
+        "hex2circ": -1,
+        "circ2cir": -1,
+        "east": 0
+    },
+    "8": {
+        "num_car": 2,
+        "dif_loads": 2,
+        "cars": {
+            "1": {
+                "num_wheels": 3,
+                "length": 1,
+                "shape": 1,
+                "num_load": 1,
+                "shape_load": 3
+            },
+            "2": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 2,
+                "num_load": 1,
+                "shape_load": 1
+            },
+            "3": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            },
+            "4": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            }
+        },
+        "rect2rect": -1,
+        "rect2tri": -1,
+        "rect2hex": -1,
+        "rect2circ": 1,
+        "tri2tri": -1,
+        "tri2hex": -1,
+        "tri2circ": -1,
+        "hex2hex": -1,
+        "hex2circ": -1,
+        "circ2cir": -1,
+        "east": 0
+    },
+    "9": {
+        "num_car": 4,
+        "dif_loads": 2,
+        "cars":{
+            "1": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 8,
+                "num_load": 1,
+                "shape_load": 1
+            },
+            "2": {
+                "num_wheels": 3,
+                "length": 1,
+                "shape": 7,
+                "num_load": 1,
+                "shape_load": 3
+            },
+            "3": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 2,
+                "num_load": 1,
+                "shape_load": 3
+            },
+            "4": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 8,
+                "num_load": 1,
+                "shape_load": 1
+            }
+        },
+        "rect2rect": 1,
+        "rect2tri": -1,
+        "rect2hex": -1,
+        "rect2circ": 1,
+        "tri2tri": -1,
+        "tri2hex": -1,
+        "tri2circ": 1,
+        "hex2hex": -1,
+        "hex2circ": -1,
+        "circ2cir": -1,
+        "east": 0
+    },
+    "10": {
+        "num_car": 2,
+        "dif_loads": 1,
+        "cars": {
+            "1": {
+                "num_wheels": 2,
+                "length": -1,
+                "shape": 2,
+                "num_load": 1,
+                "shape_load": 3
+            },
+            "2": {
+                "num_wheels":2,
+                "length": 1,
+                "shape": 2,
+                "num_load": 2,
+                "shape_load": 3
+            },
+            "3": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            },
+            "4": {
+                "num_wheels": 0,
+                "length": 0,
+                "shape": 0,
+                "num_load": 0,
+                "shape_load": 0
+            }
+        },
+        "rect2rect": 1,
+        "rect2tri": -1,
+        "rect2hex": -1,
+        "rect2circ": -1,
+        "tri2tri": -1,
+        "tri2hex": -1,
+        "tri2circ": 1,
+        "hex2hex": -1,
+        "hex2circ": -1,
+        "circ2cir": -1,
+        "east": 0
+    }
+}

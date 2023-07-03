@@ -1,0 +1,2 @@
+tensorflow==2.12
+pandas==2.0.3

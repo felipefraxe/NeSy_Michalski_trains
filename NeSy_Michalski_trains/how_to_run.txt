@@ -1,0 +1,7 @@
+1 - go to the desired directory
+2 - run "python -m venv venv" to create virtual environment
+3 - run "source venv/bin/activate" to initiante python virtual environment
+4 - run "pip install -r requirements.txt" to install the dependencies
+5 - run "python main.py" to run the exemples
+
+obs: For the different test cases, uncomment where indicated in the main file
